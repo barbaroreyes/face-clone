@@ -45,6 +45,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
              <div className ='header_info'>
                  <Avatar/>
                  <h4>Barbaro Reyes</h4>
+                 
              </div>
              <IconButton>
                  <AddIcon/>

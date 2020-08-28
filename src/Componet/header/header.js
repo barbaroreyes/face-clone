@@ -21,11 +21,11 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
              />
              <div className ='header_input'>
                <SearchIcon/>
-               <input type='search' placeholder='search something'/>
+               <input type='search' placeholder='search Facebook'/>
              </div>
          </div>
          <div className='header_center'>
-             <div className='header_options'>
+             <div className='header_options header_active'>
                  <HomeIcon fontSize='large'/>
             </div>
             <div className='header_options'>

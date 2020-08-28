@@ -36,3 +36,32 @@
 .header_left>img{
 height: 40px;
 }
+.header_options{
+    color: grey;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    cursor: pointer;
+    
+}
+.header_options:hover{
+color:#2e81f4;
+border-radius: 10px;
+background-color: #eff2f5;
+}
+.header_info{
+    display: flex;
+    align-items: center;
+}
+.header_info> h4{
+  margin-left: 10px;
+}
+.header_right{
+    display: flex;
+
+}
+
+.header_active{
+ color:#2e81f4;
+ border-bottom: 4px solid #2e81f4;
+}
